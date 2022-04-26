@@ -1,6 +1,5 @@
 ## Oii! Eu sou o Samuel Marroni
 
-- 🧑‍💻 Hoje trabalho com back-end
 - 🌱 Estudando Python, PHP e Javascript
 
 <div align="center">
