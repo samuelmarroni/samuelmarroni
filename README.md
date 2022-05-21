@@ -1,13 +1,12 @@
 <div>
-  <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/samuel-marroni/"><i>Samuel Marroni</i></a></h1>
+  <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/samuel-marroni/"><i>Samuel Marroni</i></a>👨🏻‍💻</h1>
   </a><br>
   <p align="center">Estudando Python, PHP e Javascript! 🌱</h2>
 </div>
 
 <div align="center">
   <a href="https://github.com/samuelmarroni">
-  <img align="right" alt="Samuel-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/701982880242466896/961271226494517248/download20220403112820.png?width=577&height=577">
-  <img width="75%" height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmarroni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmarroni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
