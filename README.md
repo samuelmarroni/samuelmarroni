@@ -1,7 +1,6 @@
 <div>
   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/samuel-marroni/"><i>Samuel Marroni</i></a>👨🏻‍💻</h1>
   </a><br>
-  <p align="center">Estudando Python, PHP e Javascript! 🌱</h2>
 </div>
 
 <div align="center">
